@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Mishra
+    given-names: Kaushik
+    orcid: https://orcid.org/0000-0003-3286-9432
+title: "AAIW_sea_ice_work"
+version: 1.0
+identifiers:
+  - type: doi
+date-released: 2026-08-12

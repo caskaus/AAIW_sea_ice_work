@@ -8,4 +8,5 @@ title: "AAIW_sea_ice_work"
 version: 1.0
 identifiers:
   - type: doi
+    value: https://github.com/caskaus/AAIW_sea_ice_work
 date-released: 2026-08-12
